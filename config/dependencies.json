@@ -1,0 +1,14 @@
+[
+    {
+        "autoActivateOnIdentityCreation": true,
+        "autoInjectStartingPeriodWeight": 0.05,
+        "id": "g7kQJTLBPybl9Dat3IJHYQ",
+        "name": "igorrendulic",
+        "periods": [
+            {
+                "startTime": "2022-06-30T16:31:29.045Z",
+                "weight": 0.05
+            }
+        ]
+    }
+]
