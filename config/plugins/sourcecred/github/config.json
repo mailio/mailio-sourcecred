@@ -1,1 +1,1 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{"repositories": ["mailio/go-mailio-core-modules", "mailio/MIRs", "mailio/go-mailio-core", "mailio/mailio-nft-bridge", "mailio/mailio-nft-contracts", "mailio/mailio-nft-webpage"]}
